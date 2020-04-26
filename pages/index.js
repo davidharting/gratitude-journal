@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Layout from "../layouts/app.tsx";
+import Layout from "../layouts/App";
 
 export default function Home() {
   return (
