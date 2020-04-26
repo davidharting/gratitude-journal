@@ -1,6 +1,6 @@
 # Gratitude Journal
 
-A 30 day gratitude journal using Next.js and Userbase.io.
+A 30 day gratitude journal using Next.js and userbase.com.
 
 _This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app)._
 
